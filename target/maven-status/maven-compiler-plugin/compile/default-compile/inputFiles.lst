@@ -1,0 +1,7 @@
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/DemoApplication.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/controller/GameCatalogController.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/controller/HeartbeatController.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/model/GameCatalogImpl.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/model/RandomHeartbeat.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/service/GameCatalog.java
+/home/clement.terme@Digital-Grenoble.local/Documents/Square-games/src/main/java/com/example/demo/service/HeartbeatSensor.java
